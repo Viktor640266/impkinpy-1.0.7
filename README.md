@@ -2,7 +2,7 @@ ImpKinPy is library for mechanics and astronomy
 
 impkinpy on PyPI - https://pypi.org/project/impkinpy/
 
-There is 2 modules in ImpKinPy - mechanics and astro_time. In mechanics there is 2 classes - Impulse_Energy and Gravity that inherits from Impulse_Energy.
+There is 2 modules in ImpKinPy - mechanics and astro_time. In mechanics there is 2 classes - Impulse_Energy and Gravity.
 How to install: Write "pip install impkinpy" in console log.
 
   Module mechanics
